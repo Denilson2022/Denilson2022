@@ -1,6 +1,6 @@
-### Olá eu me chamo Denilson! 👋
+## Olá eu me chamo Denilson! 👋
 
-## Sou futuro desenvolvedor front-end.
+### Sou futuro desenvolvedor front-end.
 
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,7 +11,7 @@
 
 ![Denilson GitHub stats](https://github-readme-stats.vercel.app/api?username=Denilson2022&show_icons=true&theme=dracula)
 
-## Tecnologias e ferramentas que estou aprendendo e uso no meu dia.
+### Tecnologias e ferramentas que estou aprendendo e uso no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
